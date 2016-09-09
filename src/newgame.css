@@ -1,0 +1,18 @@
+.purpleButton{
+    background-color: #eb5ae5;
+    border: 1px solid #e63cdf;
+    display: inline-block;
+    font-family: 'Catamaran', sans-serif;
+    padding: 22px 38px 22px 38px;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 1;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.purpleButton:hover{
+    background-color: #de52d8;
+    border: 1px solid #e63cdf;
+}

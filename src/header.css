@@ -1,0 +1,17 @@
+.Header {
+  background-color: rgb(216, 242, 251);
+  width: 80%;
+  margin: 0 auto;
+}
+
+h1{
+    margin: 0 auto;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 36px;
+    font-size: 4.3rem;
+    line-height: 60px;
+    color: #00bcd4;
+    text-align: center;
+    padding-top: 80px;
+    font-weight: 700;
+}
