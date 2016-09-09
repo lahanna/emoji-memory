@@ -30,12 +30,7 @@ body {
         background-color: none;
         box-shadow: none;
         border-radius: none;
-        transform: scale(0.8);
-        line-height:148px;
-        /*width: 128px;
-        height: 128px;
-        font-size: 82px;
-        line-height: 146px;*/
+        -webkit-transform: scale(0.8);
     }
 
     .madeBytext{
