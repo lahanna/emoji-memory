@@ -1,5 +1,6 @@
 {
   "name": "hello-world",
+  "homepage": "http://lahanna.github.io/emoji-memory",
   "version": "0.0.1",
   "private": true,
   "devDependencies": {
