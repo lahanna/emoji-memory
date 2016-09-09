@@ -6,3 +6,17 @@
     padding-top: 40px;
     padding-left: 30px;
 }
+
+/* Media queries */
+@media screen and (max-width: 420px) {
+
+    .Content {
+        width: 295px;
+        margin: 0 auto;
+        padding-bottom: 30px;
+        display: inline-block;
+        padding-top: 40px;
+        padding-left: 30px;
+    }
+
+}

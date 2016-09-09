@@ -4,38 +4,3 @@ body {
   font-family: sans-serif;
   background-color: rgb(216, 242, 251);
 }
-
-/* Media queries */
-@media screen and (max-width: 420px) {
-
-    .Content {
-        width: 295px;
-        margin: 0 auto;
-        padding-bottom: 30px;
-        display: inline-block;
-        padding-top: 40px;
-        padding-left: 30px;
-    }
-
-    .Card {
-        width: 128px;
-        height: 128px;
-        font-size: 82px;
-        line-height: 146px;
-    }
-    .emoji {
-        width: 128px;
-        height: 128px;
-        position: absolute;
-        background-color: none;
-        box-shadow: none;
-        border-radius: none;
-        -webkit-transform: scale(0.8);
-    }
-
-    .madeBytext{
-    	font-size: 8px;
-    	font-size: 0.8em;
-    }
-
-}

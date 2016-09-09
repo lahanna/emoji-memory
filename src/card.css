@@ -28,3 +28,26 @@
     box-shadow: 0px 0px 6px #dedddd;
     border-radius: 5px;
 }
+
+
+/* Media queries */
+@media screen and (max-width: 420px) {
+
+    .Card {
+        width: 128px;
+        height: 128px;
+        font-size: 82px;
+        line-height: 146px;
+    }
+    .emoji {
+        width: 128px;
+        height: 128px;
+        position: absolute;
+        background-color: none;
+        box-shadow: none;
+        border-radius: none;
+        -webkit-transform: scale(0.8);
+    }
+
+
+}

@@ -25,3 +25,13 @@
 	text-decoration:none;
 	color:#de52d8;
 }
+
+/* Media queries */
+@media screen and (max-width: 420px) {
+
+    .madeBytext{
+    	font-size: 8px;
+    	font-size: 0.8em;
+    }
+
+}
