@@ -29,25 +29,39 @@
     border-radius: 5px;
 }
 
-
 /* Media queries */
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 590px) {
 
     .Card {
-        width: 128px;
-        height: 128px;
-        font-size: 82px;
-        line-height: 146px;
+        width: 96px;
+        height: 96px;
+        font-size: 64px;
+        line-height: 108px;
     }
     .emoji {
-        width: 128px;
-        height: 128px;
-        position: absolute;
-        background-color: none;
-        box-shadow: none;
-        border-radius: none;
-        -webkit-transform: scale(0.8);
-    }
+        width: 96px;
+        height: 96px;
+        font-size: 64px;
+        line-height: 108px;
+   }
 
+}
+
+
+/* Media queries */
+@media screen and (max-width: 480px) {
+
+    .Card {
+        width: 96px;
+        height: 96px;
+        font-size: 64px;
+        line-height: 108px;
+    }
+    .emoji {
+        width: 96px;
+        height: 96px;
+        font-size: 64px;
+        line-height: 108px;
+   }
 
 }

@@ -21,12 +21,16 @@ const App = React.createClass({
 
     handleStartNewGame(){
 
-        const numberOfCards = 6
+        const numberOfCards = 12
 
         let images = [
             {id:0,src:"😜"},
             {id:1,src:"🌴"},
-            {id:2,src:"💖"}
+            {id:2,src:"💖"},
+            {id:3,src:"😂"},
+            {id:4,src:"💩"},
+            {id:5,src:"😘"}
+
         ]
 
         let cards = {};

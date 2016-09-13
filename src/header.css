@@ -15,3 +15,15 @@ h1{
     padding-top: 80px;
     font-weight: 700;
 }
+
+/* Media queries */
+@media screen and (max-width: 480px) {
+
+    h1{
+        font-size: 32px;
+        font-size: 3.2rem;
+        line-height: 46px;
+    }
+
+
+}
