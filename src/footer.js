@@ -15,7 +15,7 @@ const Footer = React.createClass({
       <div className="Footer">
       <NewGame handleStartNewGame={this.props.handleStartNewGame} />
       <div className="madeBytext">
-        <p>Made with 💜 <a href="http://www.tjejerkodar.se">Tjejerkodar </a>💻 <a href="http://hannarajkovic.com">Hanna Rajkovic </a>💁</p>
+        <p>Made with 💜 <a href="http://www.tjejerkodar.se">Tjejerkodar </a>💻 <a href="https://hannaolsson.com">Hanna Olsson </a>💁</p>
         </div>
       </div>
     );
